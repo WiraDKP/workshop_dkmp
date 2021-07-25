@@ -59,7 +59,7 @@ Belajar dasar-dasar data science dari nol. Topik utama yang akan kita pelajari a
 ## Step 3: Instalasi Jupyter 
 - Kita akan install 2 hal di base environment
     ```
-    conda install --name base jupyter nb_conda_kernels
+    conda install --name base jupyter nb_conda_kernels -c conda-forge
     ```
 
 ## Step 4: Instalasi Environment
