@@ -10,7 +10,7 @@ Belajar dasar-dasar data science dari nol. Topik utama yang akan kita pelajari a
 
 # Starter Guide
 ## Step 1: Download materi
-- Klik disini untuk [Download ZIP](https://codeload.github.com/WiraDKP/workshop_dkmp/zip/master), atau
+- Klik disini untuk [Download ZIP](https://codeload.github.com/WiraDKP/workshop_dkmp/zip/main), atau
 - Bagi yang familiar dengan git, boleh menggunakan clone
     ```
     git clone https://github.com/WiraDKP/workshop_dkmp.git
